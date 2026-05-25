@@ -52,4 +52,4 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krevindev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krevindev&theme=dark)](https://git.io/streak-stats)
