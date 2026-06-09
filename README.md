@@ -8,8 +8,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krevindev&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=dark&hide_border=true&exclude_days=Sun&card_height=190)](https://git.io/streak-stats)
 </div>
 
 ### 👨‍💻 Programming Languages
