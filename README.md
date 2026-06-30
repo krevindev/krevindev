@@ -10,9 +10,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=dark&hide_border=true&exclude_days=Sun&card_height=190)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)</div>
+</div>
 
 ### 👨‍💻 Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,4 +54,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krevindev&show_icons=true&theme=radical)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
