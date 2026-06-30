@@ -10,7 +10,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=dark&hide_border=true&exclude_days=Sun&card_height=190)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krevindev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)</div>
 
