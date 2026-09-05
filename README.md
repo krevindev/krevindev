@@ -53,27 +53,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-<br />
-
-<div align="center">
-
-  <!-- 1. General GitHub Stats (Working) -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  
-  <br /><br />
-
-  <!-- 2. Top Languages Card (FIXED URL) -->
-  <img src="https://vercel.app" alt="Top Languages" />
-  
-  <br /><br />
-
-  <!-- 3. Contribution Alternative (Choose ONE of the options below and delete the other) -->
-  
-  <!-- OPTION A: 3D Isometric Profile Graph (Highly Reliable) -->
-  <img src="https://vercel.app" alt="GitHub 3D Contribution Graph" />
-
-  <!-- OPTION B: Contribution Grid Snake Game Animation -->
-  <!-- <img src="https://githubusercontent.com" alt="Snake Animation" /> -->
-
-</div>
