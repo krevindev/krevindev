@@ -58,18 +58,22 @@
 
 <div align="center">
 
-  <!-- General GitHub Stats (Updated Server) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=krevindev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- 1. General GitHub Stats (Working) -->
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  
+  <br /><br />
 
-  <br />
-
-  <!-- Top Languages Card (Fixed & Updated Server) -->
+  <!-- 2. Top Languages Card (FIXED URL) -->
   <img src="https://vercel.app" alt="Top Languages" />
+  
+  <br /><br />
 
-  <br />
+  <!-- 3. Contribution Alternative (Choose ONE of the options below and delete the other) -->
+  
+  <!-- OPTION A: 3D Isometric Profile Graph (Highly Reliable) -->
+  <img src="https://vercel.app" alt="GitHub 3D Contribution Graph" />
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact" alt="GitHub Activity Graph" />
+  <!-- OPTION B: Contribution Grid Snake Game Animation -->
+  <!-- <img src="https://githubusercontent.com" alt="Snake Animation" /> -->
 
 </div>
-
