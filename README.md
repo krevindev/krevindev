@@ -54,8 +54,22 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krevindev&show_icons=true&theme=radical)
+<br />
 
-[![Top Langs](https://vercel.app)](https://github.com/stats-organization/github-stats-extended
+<div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- General GitHub Stats (Updated Server) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=krevindev&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <br />
+
+  <!-- Top Languages Card (Fixed & Updated Server) -->
+  <img src="https://vercel.app" alt="Top Languages" />
+
+  <br />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krevindev&theme=github-compact" alt="GitHub Activity Graph" />
+
+</div>
+
