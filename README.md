@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kylerevin.alimpuangon) 
@@ -12,6 +12,7 @@
 
 </div>
 
+<div align="center">
 ### 👨‍💻 Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,3 +58,5 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31or62nf74ol3wg3glaichh6dymm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
