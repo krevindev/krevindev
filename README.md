@@ -9,6 +9,12 @@
 
 <div align="center">
 
+![Top Languages](https://github-readme-stats-two-delta-15.vercel.app/api/top-langs/?username=krevindev&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true)
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=radical&hide_border=true&border_radius=10&exclude_days=Sun)](https://git.io/streak-stats)
 
 </div>
