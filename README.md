@@ -10,7 +10,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=radical&hide_border=true&border_radius=10&exclude_days=Sun)](https://git.io/streak-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krevindev&layout=compact&langs_count=8)](https://github.com/DenverCoder1/github-readme-stats)
+[![Most Used Languages](https://YOUR-APP.vercel.app/api/top-langs/?username=krevindev&layout=compact&langs_count=8&count_private=true)](https://github.com/DenverCoder1/github-readme-stats)
 </div>
 
 ### 👨‍💻 Programming Languages
