@@ -9,7 +9,12 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krevindev&theme=radical&hide_border=true&border_radius=10&exclude_days=Sun)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krevindev&layout=compact&langs_count=8&theme=dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krevindev&layout=compact&langs_count=8&theme=dark"
+    alt="Top Languages"
+  />
+</p>
 
 </div>
 
